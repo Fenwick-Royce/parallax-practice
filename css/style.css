@@ -1,6 +1,6 @@
 .parallax1 {
     background-image: url(parallaximages/parallaxpic1.png);
-    min-height: 500px;
+    min-height: 600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@
 
 .parallax2 {
     background-image: url(parallaximages/parallaxpic2.png);
-    min-height: 500px;
+    min-height: 600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,7 +18,16 @@
 
 .parallax3 {
     background-image: url(parallaximages/parallaxpic3.png);
-    min-height: 500px;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4 {
+    background-image: url(parallaximages/parallaxpic4.png);
+    min-height: 600px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
